@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arya S</h1>
 <h3 align="center">A passionate engineering student pursuing my degree in b-tech, IT from LBSITW, Trivandrum, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryas004&label=Profile%20views&color=0e75b6&style=flat" alt="aryas004" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryas004" alt="aryas004" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryaS004](https://github.com/AryaS004)
 
-- 💬 Ask me about **python, java**
+- 💬 Ask me about **python, java, HTML**
 
 - 📫 How to reach me **aryasanil0308@gmail.com**
 
