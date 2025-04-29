@@ -3,7 +3,7 @@
 <h3 align="center">A passionate engineering student pursuing my degree in b-tech, IT from LBSITW, Trivandrum, India</h3>
 
 <p align="center">
-  <img src="C:\Users\Anju\Downloads\Untitled design.gif" alt="Cool Animation" width="400" />
+  <img src="Untitled design.gif" alt="Cool Animation" width="400" />
 </p>
 
 
