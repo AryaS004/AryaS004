@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya S</h1>
 
-<h3 align="center">A passionate engineering student pursuing my degree in b-tech, IT from LBSITW, Trivandrum, India</h3>
+<h3 align="center">A passionate B.Tech IT student at LBSITW, Trivandrum, eager to build impactful tech solutions.</h3>
 
 <p align="center">
   <img src="Untitled design.gif" alt="Cool Animation" width="400" />
