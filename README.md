@@ -3,7 +3,7 @@
 <h3 align="center">A passionate B.Tech IT student at LBSITW, Trivandrum, eager to build impactful tech solutions.</h3>
 
 <p align="center">
-  <img src=""C:\Users\Anju\Downloads\newgif.gif"" alt="Cool Animation" width="400" />
+  <img src="newgif.gif" alt="Cool Animation" width="400" />
 </p>
 
 
