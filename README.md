@@ -9,11 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryas004" alt="aryas004" /></a> </p>
 
+- 🌱 I’m currently learning **Data Science and Data Analysis through hands-on courses**
+
 - 👨‍💻 All of my projects are available at [https://github.com/AryaS004](https://github.com/AryaS004)
 
 - 💬 Ask me about **python, java, HTML**
 
 - 📫 How to reach me **aryasanil0308@gmail.com**
+
+- ⚡ Fun fact **I’m hooked on paranormal videos and true crime podcasts—perfect for a thrill**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
