@@ -2,6 +2,11 @@
 
 <h3 align="center">A passionate engineering student pursuing my degree in b-tech, IT from LBSITW, Trivandrum, India</h3>
 
+<p align="center">
+  <img src="C:\Users\Anju\Downloads\Untitled design.gif" alt="Cool Animation" width="400" />
+</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryas004" alt="aryas004" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryaS004](https://github.com/AryaS004)
