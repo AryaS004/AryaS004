@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryaS004](https://github.com/AryaS004)
 
-- 💬 Ask me about **python, java,**
+- 💬 Ask me about **python, java**
 
 - 📫 How to reach me **aryasanil0308@gmail.com**
 
