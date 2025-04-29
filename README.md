@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya S</h1>
+
 <h3 align="center">A passionate engineering student pursuing my degree in b-tech, IT from LBSITW, Trivandrum, India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryas004" alt="aryas004" /></a> </p>
