@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aryasanil0308@gmail.com**
 
-- ⚡ Fun fact **I’m hooked on paranormal exploration videos and true crime podcasts—perfect for a thrill**
+- ⚡ Fun fact **I’m hooked on paranormal exploration videos and true crime podcasts—perfect for a thrill 👻 And when I need a break, you’ll find me **dancing** to my favorite tunes! 💃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
