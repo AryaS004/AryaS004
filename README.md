@@ -63,13 +63,13 @@
 
 ### 📌 Pinned Projects
 <p align="left">
-  <a href="https://github.com/AryaS004/Attendance-FaceRecognition">
+  <a href="https://github.com/AryaS004/Mini-Project">
     <img src="https://img.shields.io/badge/Attendance%20System-Face%20Recognition-blue?style=flat-square&logo=python" alt="Attendance System" />
   </a>
   <a href="https://github.com/AryaS004/Hostel-mess-management">
     <img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Project-orange?style=flat-square&logo=mysql" alt="Hostel Mess Management" />
   </a>
-  <a href="https://github.com/AryaS004/DrugReportingApp">
+  <a href="https://github.com/Varalakshmi2354/Aakasham">
     <img src="https://img.shields.io/badge/Mobile%20App-Anonymous%20Drug%20Reporting-orange?style=flat-square&logo=android" alt="Drug Reporting App" />
   </a>
 </p>
