@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya S</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=B.Tech+IT+Student+%7C+LBSITW;Aspiring+Data+Scientist+%7C+Tech+Enthusiast;Loves+Dancing+%26+Crime+Podcasts+%F0%9F%92%83%F0%9F%91%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arya+S+%F0%9F%91%8B;B.Tech+IT+Student+at+LBSITW;Aspiring+Data+Scientist+%E2%9C%A8;True+Crime+%26+Paranormal+Fan+%F0%9F%91%BD;I+love+to+code+and+I+love+to+dance+%F0%9F%92%83" alt="Typing animation" />
 </h3>
 
 <p align="center">
