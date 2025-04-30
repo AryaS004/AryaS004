@@ -70,9 +70,10 @@
     <img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Project-orange?style=flat-square&logo=mysql" alt="Hostel Mess Management" />
   </a>
   <a href="https://github.com/Varalakshmi2354/Aakasham">
-    <img src="https://img.shields.io/badge/Mobile%20App-Anonymous%20Drug%20Reporting-orange?style=flat-square&logo=android" alt="Drug Reporting App" />
+    <img src="https://img.shields.io/badge/Project-Aakasham%20App-blue?style=flat-square&logo=android" alt="Aakasham App" />
   </a>
 </p>
+
 
 ---
 
