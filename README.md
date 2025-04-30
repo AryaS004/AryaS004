@@ -66,8 +66,8 @@
   <a href="https://github.com/AryaS004/Attendance-FaceRecognition">
     <img src="https://img.shields.io/badge/Attendance%20System-Face%20Recognition-blue?style=flat-square&logo=python" alt="Attendance System" />
   </a>
-  <a href="https://github.com/AryaS004/Eco-Warriors-Game">
-    <img src="https://img.shields.io/badge/Game-Eco%20Warriors-green?style=flat-square&logo=unity" alt="Eco Warriors" />
+  <a href="https://github.com/AryaS004/Hostel-mess-management">
+    <img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Project-orange?style=flat-square&logo=mysql" alt="Hostel Mess Management" />
   </a>
   <a href="https://github.com/AryaS004/DrugReportingApp">
     <img src="https://img.shields.io/badge/Mobile%20App-Anonymous%20Drug%20Reporting-orange?style=flat-square&logo=android" alt="Drug Reporting App" />
