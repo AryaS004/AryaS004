@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya S</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3BB9FF&center=true&vCenter=true&width=600&lines=A+passionate+B.Tech+IT+student+at+LBSITW%2C+Trivandrum;Eager+to+build+impactful+tech+solutions!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3BB9FF&center=true&vCenter=true&width=1000&lines=A+passionate+B.Tech+IT+student+at+LBSITW,+Trivandrum,+eager+to+build+impactful+tech+solutions." alt="Typing Animation" />
 </h3>
 
 
