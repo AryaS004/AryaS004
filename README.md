@@ -69,7 +69,7 @@
   <a href="https://github.com/AryaS004/Hostel-mess-management">
     <img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Project-orange?style=flat-square&logo=mysql" alt="Hostel Mess Management" />
   </a>
-  <a href="https://github.com/AryaS004/Aakasham">
+  <a href="https://github.com/Varalakshmi2354/Aakasham">
     <img src="https://img.shields.io/badge/Climate%20Action-ArticMind%20Website-blue?style=flat-square&logo=html5" alt="ArticMind - Climate Action" />
   </a>
 </p>
