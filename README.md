@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="newgif.gif" alt="Cool Animation" width="80%" style="max-width: 400px;" />
+  <img src="newgif.gif" alt="Cool Animation" width="60%" style="max-width: 400px;" />
 </p>
 
 <p align="center">
