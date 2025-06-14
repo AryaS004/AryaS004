@@ -2,7 +2,7 @@
 <h4 align="center">Passionate coder with a creative twist</h4>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=3BB9FF&center=false&vCenter=false&width=1000&lines=A+passionate+B.Tech+IT+student+at+LBSITW,+Trivandrum.;Eager+to+build+impactful+tech+solutions." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=3BB9FF&center=false&vCenter=false&width=1000&lines=A+passionate+B.Tech+IT+student+at+LBSITW,+Trivandrum.;Eager+to+build+impactful+tech+solutions!" alt="Typing Animation" />
 </h3>
 
 <p align="center">
@@ -17,30 +17,33 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌟 Currently Learning
 
 - **Data Scientist and Data Analyst** — developing skills through hands-on courses
-- **Exploring Artificial Intelligence, Machine Learning, and Cyber Security**
+- **Exploring Artificial Intelligence, Machine Learning, Cyber Security, and Web Development**
 
 ---
 
-## 👨‍💻 Projects
+## 👨‍💻 My Projects
 
-✅ [**Attendance System with Face Recognition**](https://github.com/AryaS004/Mini-Project)  
-✅ [**Hostel Mess Management**](https://github.com/AryaS004/Hostel-mess-management)  
-✅ [**ArticMind (Climate Action) Website**](https://github.com/Varalakshmi2354/Aakasham)  
+✅ [**Attendance System with Face Recognition**](https://github.com/AryaS004/Mini-Project) — Intelligent attendance solution  
+✅ [**Hostel Mess Management**](https://github.com/AryaS004/Hostel-mess-management) — Digital mess meal tracker  
+✅ [**ArticMind (Climate Action) Website**](https://github.com/Varalakshmi2354/Aakasham) — Climate Action platform  
 
 ---
 
 ## 💬 Ask Me About
 
-- **Python**, **Java**, **HTML**, **Javascript**, **MySQL**
+- **Python**, **Java**, **HTML**, **Javascript**, **MySQL**  
+- Machine learning, data science, face recognition, automation
 
 ---
 
-## 📫 Reach Me At
+## 📫 How to reach me:
 
 - 📧 [aryasanil0308@gmail.com](mailto:aryasanil0308@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/arya-s-7521522a4)
+- 📸 [Instagram](https://instagram.com/a_ry_as)
 
 ---
 
@@ -91,11 +94,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryas004&show_icons=true&locale=en&layout=compact" alt="Top Languages" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryas004&show_icons=false&locale=en&layout=compact" alt="Top Languages" /><br>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryas004&show_icons=true&locale=en" alt="Github Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryas004&show_icons=false&locale=en" alt="Github Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryas004&" alt="Github Streak" /><br>
 </p>
 
