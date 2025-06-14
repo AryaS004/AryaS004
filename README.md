@@ -78,17 +78,7 @@
 
 ## 📌 Pinned Projects
 
-<p align="left">
-  <a href="https://github.com/AryaS004/Mini-Project">
-    <img src="https://img.shields.io/badge/Attendance%20System-Face%20Recognition-blue?style=flat-square&logo=python" alt="Attendance System" />
-  </a>
-  <a href="https://github.com/AryaS004/Hostel-mess-management">
-    <img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Project-orange?style=flat-square&logo=mysql" alt="Hostel Mess Management" />
-  </a>
-  <a href="https://github.com/Varalakshmi2354/Aakasham">
-    <img src="https://img.shields.io/badge/Climate%20Action-ArticMind%20Website-blue?style=flat-square&logo=html5" alt="ArticMind - Climate Action" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/AryaS004/house-price-prediction"> <img src="https://img.shields.io/badge/House%20Price%20Prediction-Regression%20Model-blue?style=flat-square&logo=python" alt="House Price Prediction Model" /> </a> <a href="https://github.com/AryaS004/Mini-Project"> <img src="https://img.shields.io/badge/Mini%20Project-Web%20Application-orange?style=flat-square&logo=html5" alt="Mini Project - Web Application" /> </a> <a href="https://github.com/AryaS004/Hostel-mess-management"> <img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Web%20Application-brown?style=flat-square&logo=java" alt="Hostel Mess Management Application" /> </a> <a href="https://github.com/Varalakshmi2354/Aakasham"> <img src="https://img.shields.io/badge/Aakasham-Climate%20Action%20Website-blue?style=flat-square&logo=html5" alt="Aakasham - Climate Action Website" /> </a> <a href="https://github.com/AryaS004/netflix-clone"> <img src="https://img.shields.io/badge/Netflix%20Clone-Responsive%20Web%20Application-red?style=flat-square&logo=javascript" alt="Netflix Clone - Responsive Web Application" /> </a> </p>
 
 ---
 
