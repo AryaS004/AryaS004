@@ -2,7 +2,7 @@
 <h4 align="center">Passionate coder with a creative twist</h4>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=3BB9FF&center=true&vCenter=true&width=1000&lines=A+passionate+B.Tech+IT+student+at+LBSITW,+Trivandrum.;Eager+to+build+impactful+tech+solutions.+" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=3BB9FF&center=false&vCenter=false&width=1000&lines=A+passionate+B.Tech+IT+student+at+LBSITW,+Trivandrum.;Eager+to+build+impactful+tech+solutions." alt="Typing Animation" />
 </h3>
 
 <p align="center">
@@ -46,8 +46,8 @@
 
 ## ⚡ Fun Fact
 
-- I'm hooked on *paranormal videos* and *true crime podcasts*.  
-- I *love to dance* when I need a break! 👻💃
+- I'm hooked on *paranormal videos* and *true crime podcasts*. 👻
+- I *love to dance* when I need a break! 💃
 
 ---
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
@@ -78,19 +78,25 @@
 
 ## 📌 Pinned Projects
 
-<p align="left"> <a href="https://github.com/AryaS004/House_Price_Prediction"> <img src="https://img.shields.io/badge/House%20Price%20Prediction-Regression%20Model-blue?style=flat-square&logo=python" alt="House Price Prediction Model" /> </a> <a href="https://github.com/AryaS004/Mini-Project"> <img src="https://img.shields.io/badge/Mini%20Project-Web%20Application-orange?style=flat-square&logo=html5" alt="Mini Project - Web Application" /> </a> <a href="https://github.com/AryaS004/Hostel-mess-management"> <img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Web%20Application-brown?style=flat-square&logo=java" alt="Hostel Mess Management Application" /> </a> <a href="https://github.com/Varalakshmi2354/Aakasham"> <img src="https://img.shields.io/badge/Aakasham-Climate%20Action%20Website-blue?style=flat-square&logo=html5" alt="Aakasham - Climate Action Website" /> </a> <a href="https://github.com/AryaS004/Netflix-clone"> <img src="https://img.shields.io/badge/Netflix%20Clone-Responsive%20Web%20Application-red?style=flat-square&logo=javascript" alt="Netflix Clone - Responsive Web Application" /> </a> </p>
+<p align="left">
+  <a href="https://github.com/AryaS004/House_Price_Prediction"><img src="https://img.shields.io/badge/House%20Price%20Prediction-Regression%20Model-blue?style=flat-square&logo=python" alt="House Price Prediction Model" /> </a> 
+  <a href="https://github.com/AryaS004/Mini-Project"><img src="https://img.shields.io/badge/Mini%20Project-Web%20Application-orange?style=flat-square&logo=html5" alt="Mini Project - Web Application" /> </a> 
+  <a href="https://github.com/AryaS004/Hostel-mess-management"><img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Web%20Application-brown?style=flat-square&logo=java" alt="Hostel Mess Management Application" /> </a> 
+  <a href="https://github.com/Varalakshmi2354/Aakasham"><img src="https://img.shields.io/badge/Aakasham-Climate%20Action%20Website-blue?style=flat-square&logo=html5" alt="Aakasham - Climate Action Website" /> </a> 
+  <a href="https://github.com/AryaS004/Netflix-clone"><img src="https://img.shields.io/badge/Netflix%20Clone-Responsive%20Web%20Application-red?style=flat-square&logo=javascript" alt="Netflix Clone - Responsive Web Application" /> </a> 
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryas004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryas004&show_icons=true&locale=en&layout=compact" alt="Top Languages" /><br>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryas004&show_icons=true&locale=en" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryas004&" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryas004&show_icons=true&locale=en" alt="Github Stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryas004&" alt="Github Streak" /><br>
 </p>
 
 ---
