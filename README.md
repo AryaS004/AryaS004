@@ -2,7 +2,7 @@
 <h4 align="center">Passionate coder with a creative twist</h4>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=3BB9FF&center=false&vCenter=false&width=1000&lines=A+passionate+B.Tech+IT+student+at+LBSITW,+Trivandrum.;Eager+to+build+impactful+tech+solutions!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=3BB9FF&center=true&vCenter=true&width=1000&lines=A+passionate+B.Tech+IT+student+at+LBSITW+Trivandrum.;Eager+to+build+impactful+tech+solutions." alt="Typing Animation" />
 </h3>
 
 <p align="center">
@@ -17,40 +17,78 @@
 
 ---
 
-## 🌟 Currently Learning
+## 🌱 Currently Learning
 
 - **Data Scientist and Data Analyst** — developing skills through hands-on courses
-- **Exploring Artificial Intelligence, Machine Learning, Cyber Security, and Web Development**
+- **Exploring Artificial Intelligence, Machine Learning, and Cyber Security**
 
 ---
 
 ## 👨‍💻 My Projects
 
-✅ [**Attendance System with Face Recognition**](https://github.com/AryaS004/Mini-Project) — Intelligent attendance solution  
-✅ [**Hostel Mess Management**](https://github.com/AryaS004/Hostel-mess-management) — Digital mess meal tracker  
-✅ [**ArticMind (Climate Action) Website**](https://github.com/Varalakshmi2354/Aakasham) — Climate Action platform  
+<p align="center">
+  
+  <a href="https://github.com/AryaS004/Mini-Project">
+    <img src="https://img.shields.io/badge/Attendance%20with%20Face%20Recognition-AI-blue?style=flat-square&logo=python" alt="Attendance System with Face Recognition">
+  </a>  
+  An **intelligent attendance solution using face recognition**, designed for schools and organizations.
+
+</p>
+
+<p align="center">
+  
+  <a href="https://github.com/AryaS004/Hostel-mess-management">
+    <img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Web%20Application-brown?style=flat-square&logo=java" alt="Hostel Mess Management">
+  </a>  
+  A **web application** for efficiently managing mess payments, meal plans, and attendance in a hostel.
+
+</p>
+
+<p align="center">
+  
+  <a href="https://github.com/Varalakshmi2354/Aakasham">
+    <img src="https://img.shields.io/badge/ArticMind%20(Climate%20Action)-Website-blue?style=flat-square&logo=html5" alt="Aakasham">
+  </a>  
+  An interactive platform **raising awareness about climate change** and its impacts — featuring educational games, real-world data, and community stories.
+
+</p>
+
+<p align="center">
+  
+  <a href="https://github.com/AryaS004/Netflix-clone">
+    <img src="https://img.shields.io/badge/Netflix%20Clone-Responsive%20Web%20Application-red?style=flat-square&logo=javascript" alt="Netflix Clone">
+  </a>  
+  A **responsive Netflix-like platform** constructed with HTML, CSS, and JavaScript — perfect for honing UI design and API integration skills.
+
+</p>
+
+<p align="center">
+  
+  <a href="https://github.com/AryaS004/House_Price_Prediction">
+    <img src="https://img.shields.io/badge/House%20Price%20Prediction-Regression%20Model-blue?style=flat-square&logo=python" alt="House price prediction">
+  </a>  
+  A **regression algorithm implemented in Python** for estimating real estate prices, employing machine learning techniques.
+
+</p>
 
 ---
 
 ## 💬 Ask Me About
 
-- **Python**, **Java**, **HTML**, **Javascript**, **MySQL**  
-- Machine learning, data science, face recognition, automation
+- **Python**, **Java**, **HTML**, **Javascript**, **MySQL**
 
 ---
 
-## 📫 How to reach me:
+## 📫 Reach Me At
 
 - 📧 [aryasanil0308@gmail.com](mailto:aryasanil0308@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/arya-s-7521522a4)
-- 📸 [Instagram](https://instagram.com/a_ry_as)
 
 ---
 
 ## ⚡ Fun Fact
 
-- I'm hooked on *paranormal videos* and *true crime podcasts*. 👻
-- I *love to dance* when I need a break! 💃
+- I'm hooked on *paranormal videos* and *true crime podcasts*.  
+- I *love to dance* when I need a break! 👻💃
 
 ---
 
@@ -63,7 +101,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
@@ -82,7 +120,7 @@
 ## 📌 Pinned Projects
 
 <p align="left">
-  <a href="https://github.com/AryaS004/House_Price_Prediction"><img src="https://img.shields.io/badge/House%20Price%20Prediction-Regression%20Model-blue?style=flat-square&logo=python" alt="House Price Prediction Model" /> </a> 
+  <a href="https://github.com/AryaS004/House_Price_Prediction"><img src="https://img.shields.io/badge/House%20Price%20Prediction-Regression%20Model-blue?style=flat-square&logo=python" alt="House price prediction model" /> </a> 
   <a href="https://github.com/AryaS004/Mini-Project"><img src="https://img.shields.io/badge/Mini%20Project-Web%20Application-orange?style=flat-square&logo=html5" alt="Mini Project - Web Application" /> </a> 
   <a href="https://github.com/AryaS004/Hostel-mess-management"><img src="https://img.shields.io/badge/Hostel%20Mess%20Management-Web%20Application-brown?style=flat-square&logo=java" alt="Hostel Mess Management Application" /> </a> 
   <a href="https://github.com/Varalakshmi2354/Aakasham"><img src="https://img.shields.io/badge/Aakasham-Climate%20Action%20Website-blue?style=flat-square&logo=html5" alt="Aakasham - Climate Action Website" /> </a> 
@@ -94,7 +132,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryas004&show_icons=false&locale=en&layout=compact" alt="Top Languages" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryas004&show_icons=false&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -108,3 +146,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryas004&label=Profile%20views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/aryas004?label=Followers&style=social)
+
+
