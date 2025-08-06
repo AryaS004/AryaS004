@@ -103,7 +103,7 @@
 
 ---
 
-## 👁 View Count
+![Snake animation](https://github.com/aryas004/aryas004/blob/output/github-contribution-grid-snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryas004&label=Profile%20Views)
 ![Followers](https://img.shields.io/github/followers/aryas004?label=Followers)
