@@ -10,20 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout your repository
       - name: Checkout your repo
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake SVG animation
-      - name: Generate Snake Animation
+      - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
           github_user_name: aryas004
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Step 3: Push the SVG to the output branch
-      - name: Push animation to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
