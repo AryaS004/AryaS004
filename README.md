@@ -2,7 +2,7 @@
 <h4 align="center">Passionate coder with a creative twist</h4>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=3BB9FF&center=false&vCenter=false&width=500&lines=A+passionate+B.Tech+IT+student+at+LBSITW.;Eager+to+build+impactful+tech+solutions.;Exploring+AI+and+Cyber+Security+technologies." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=3BB9FF&center=false&vCenter=false&width=500&lines=A+passionate+B.Tech+IT+student+at+LBSITW.;Eager+to+build+impactful+tech+solutions." alt="Typing Animation" />
 </h3>
 <p align="center">
   <img src="newgif.gif" alt="Cool Animation" width="60%" style="max-width: 400px;" />
