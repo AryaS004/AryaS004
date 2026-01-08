@@ -18,7 +18,7 @@
 ## 🌱 Currently Learning
 
 - **Data Scientist and Data Analyst** — developing skills through hands-on courses
-- **Exploring Artificial Intelligence, Machine Learning, and Cyber Security**
+- **Exploring Artificial Intelligence and Machine Learning**
 
 ---
 
