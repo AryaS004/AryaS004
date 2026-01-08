@@ -7,10 +7,8 @@
 <p align="center">
   <img src="newgif.gif" alt="Cool Animation" width="60%" style="max-width: 400px;" />
 </p>
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryas004&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryas004&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 
